@@ -3,7 +3,7 @@ import java.util.*;
 class Utility
 {
     int multiply(int firstInt, int secondInt)
-    {
+    {   
         return firstInt * secondInt;
     }
 }
